@@ -1,15 +1,21 @@
 _repo: Letters-from-a-Sufi-Teacher_47749
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Singh, Baijnath
     gutenberg_agent_id: '44454'
     url: http://www.gutenberg.org/2009/agents/44454
+covers:
+- cover_type: archival
+  image_path: 47749-h/images/cover.jpg
 creator:
   author:
     agent_name: Manerî, Shaikh Sharfuddîn
     gutenberg_agent_id: '44453'
     url: http://www.gutenberg.org/2009/agents/44453
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47749#Letters-from-a-Sufi-Teacher
 gutenberg_issued: '2014-12-23'
 gutenberg_type: Text
 identifiers:
